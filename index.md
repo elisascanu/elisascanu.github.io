@@ -1,8 +1,8 @@
 ## About me
 
-Currently, I am a postdoc in the Evolutionary Dynamics group led by Benjamin Werner at the Centre for Cancer Genomics and Computational Biology, Barts Cancer Institute.
+Hello! My name is Elisa and I am currently a final year PhD student at Queen Mary University of London, School of Mathematical Sciences.
 
-I obtained my PhD in mathematical biology from UCL in 2021, under the supervision of [Prof. Karen Page](https://www.ucl.ac.uk/~ucackmp/). Prior to that I completed my MPhys in mathematical physics at the University of Edinburgh in 2016. You can see my [CV](https://jessierenton.github.io/JRenton_CV.pdf) here. I am broadly interested in using mathematical and computational methods to model biological and social systems, in particular evolutionary processes.
+I am completing my PhD under the supervision of [Dr. Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html) and [Dr. Benjamin Werner](https://www.qmul.ac.uk/maths/profiles/huangw.html). Prior to that I completed my MPhys in mathematical physics at the University of Edinburgh in 2016. You can see my [CV](https://jessierenton.github.io/JRenton_CV.pdf) here. I am broadly interested in using mathematical and computational methods to model biological and social systems, in particular evolutionary processes.
 
 [Research](#research) - [Publications](#publications) - [Presentations](#presentations) - [Teaching](#teaching)
 
