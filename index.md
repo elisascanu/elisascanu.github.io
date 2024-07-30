@@ -4,12 +4,14 @@ Hello! My name is Elisa and I am currently a final year PhD student at Queen Mar
 
 I am completing my PhD under the supervision of [Dr. Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html) and [Dr. Benjamin Werner](https://www.bci.qmul.ac.uk/staff/dr-benjamin-werner/). 
 
-[Research interests](#research) - [Publications](#publications) - [Presentations](#presentations) - [Teaching](#teaching)
+[Research interests](#research) - [Publications](#publications) - [Presentations](#presentations) - [Prizes](#prizes) - [Teaching](#teaching)
 
 ### Email/Socials
 
-Email: e.scanu \[at\] qmul.ac.uk
-X: \[at\]eliscanu96
+Email: e.scanu@qmul.ac.uk
+
+X: @eliscanu96
+
 Google Scholar: [Elisa Scanu](https://scholar.google.com/citations?hl=it&user=juEQxZ8AAAAJ)
 
 ## Research interests
@@ -22,7 +24,17 @@ I am currently working on the evolutionary dynamics of extra-chromosomal DNA (ec
 
 ## Presentations
 
-- Jul. 2019. Society of Mathematical Biology, University of Montreal. [Poster](https://jessierenton.github.io/poster.pdf).
+1. June 2022, Early Career Researchers in Mathematics Conference, University College London. Talk
+2. September 2022, European Conference of Theoretical and Mathematical Biology (ECMTB), Heidelberg. Poster
+3. October 2022, Conference on Complex System (CCS), Palma de Mallorca. Poster
+4. October 2022, Integrated Mathematical Oncology Workshop, Tampa. Poster
+5. December 2022, NetPLACE, online. Invited speaker
+6. May 2023, Como School on Cancer Evolution, Lake Como School on Advanced Studies. Talk
+7. July 2023, Society for Molecular Biology and Evolution, Ferrara. Talk
+8. September 2023, London Mathematical Biology Conference, London. Poster
+9. July 2024, Gruppo Italiano Meccanica Computazionale & Società Italiana di Matematica Applicata ed Industriale, Naples. Invited speaker
+10. July 2024, European Conference of Theoretical and Mathematical Biology (ECMTB), Toledo. Talk
+
 
 
 ## Teaching
