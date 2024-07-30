@@ -27,7 +27,7 @@ plugins:
 minima:
   author:
     name: Your Name
-    avatar: "eliscanu96.github.io/IMG_2261.jpg" # Path to your avatar image
+    avatar: "https://eliscanu96.github.io/IMG_2261.jpg" # Path to your avatar image
     bio: "Your bio goes here."
   social_links:
     - name: GitHub
