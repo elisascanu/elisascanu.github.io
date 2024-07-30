@@ -1,5 +1,44 @@
-theme: jekyll-theme-midnight
-layout: page
 title: Elisa Scanu
-logo: IMG_2261.jpg
-tagline: PhD
+email: e.scanu@qmul.ac.uk
+baseurl: "" # the subpath of your site, e.g., /blog
+url: "https://eliscanu96.github.io" # the base hostname & protocol for your site
+twitter_username: @eliscanu96
+github_username:  eliscanu96
+
+# Build settings
+theme: jekyll-theme-midnight
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Enable the minima theme plugin
+minima:
+  author:
+    name: Your Name
+    avatar: "/assets/images/avatar.png" # Path to your avatar image
+    bio: "Your bio goes here."
+  social_links:
+    - name: GitHub
+      url: https://github.com/eliscanu96
+    - name: X
+      url: https://x.com/eliscanu96
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Permalinks
+permalink: /:year/:month/:day/:title/
