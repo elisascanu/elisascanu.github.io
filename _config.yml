@@ -6,7 +6,7 @@ twitter_username: @eliscanu96
 github_username:  eliscanu96
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minima
 
 # Exclude from processing.
 exclude:
