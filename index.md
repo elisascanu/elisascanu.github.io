@@ -21,7 +21,7 @@ Google Scholar: [Elisa Scanu](https://scholar.google.com/citations?hl=it&user=ju
 
 ## Research
 
-I am currently working on the evolutionary dynamics of extra-chromosomal DNA (ecDNA) and I am part of the team [eDyNAmiC](https://cancergrandchallenges.org/teams/edynamic). My research focuses on understanding the dynamics of multiple ecDNAs in an expanding cell population. Precisely, I use computational and analytical methodologies, informed with available data.
+I am currently working on investigating extra-chromosomal DNA (ecDNA) proliferation through agent-based modeling. I am also part of the team [eDyNAmiC](https://cancergrandchallenges.org/teams/edynamic). Precisely, my research focuses on understanding the dynamics of multiple ecDNAs in an expanding cell population. Precisely, I use computational and analytical methodologies, informed with available data.
 
 I am also interested in general population dynamics, mutational patterns, cancer evolution.
 
