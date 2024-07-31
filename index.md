@@ -7,7 +7,7 @@ Hello! My name is Elisa and I am currently a final year PhD student at Queen Mar
 
 I am completing my PhD under the supervision of [Dr. Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html) and [Dr. Benjamin Werner](https://www.bci.qmul.ac.uk/staff/dr-benjamin-werner/). 
 
-[Email/Socials](#socials) - [Research interests](#research) - [Publications](#publications) - [Presentations](#presentations) - [Prizes](#prizes) - [Teaching](#teaching) - [Other interests](#other)
+[Email/Socials](#socials) - [Research](#research) - [Publications](#publications) - [Presentations](#presentations) - [Prizes](#prizes) - [Teaching](#teaching) - [Other](#other)
 
 ## Email/Socials
 
@@ -17,7 +17,7 @@ X: [@eliscanu96](https://x.com/eliscanu96)
 
 Google Scholar: [Elisa Scanu](https://scholar.google.com/citations?hl=it&user=juEQxZ8AAAAJ)
 
-## Research interests
+## Research
 
 I am currently working on the evolutionary dynamics of extra-chromosomal DNA (ecDNA) and I am part of the team [eDyNAmiC](https://cancergrandchallenges.org/teams/edynamic). My research focuses on understanding the dynamics of multiple ecDNAs in an expanding cell population. Precisely, I use computational and analytical methodologies, informed with available data.
 
@@ -60,7 +60,7 @@ As a Graduate Teaching Assistant:
 1. "Sequences and Series", "Calculus I", "Applied Differential Equations", "Mathematical Biology", Bachelor's programme in Mathematics, King's College London, London.
 2. "Number Sets and Functions", "Calculus II", "Programming in C++", "Programming in Python", Bachelor's programme in Mathematics, Queen Mary University of London, London.
 
-## Other interests
+## Other
 
 I love to run, I am preparing the London Half Marathon 2025 :)
 
