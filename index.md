@@ -64,8 +64,8 @@ As a Graduate Teaching Assistant:
 
 ## Other
 
-I love to run, I am preparing the London Half Marathon 2025 :)
+I love to run, and I am preparing my first Half Marathon! 
 
-I am a great cook (accordingly to my friends and family), and my best dish is Carbonara (without cream).
+I am a great cook (accordingly to my friends and family), and my best dish is pasta alla carbonara (without cream).
 
-When it comes to my favourite place, that is definitely the sea.
+I am always up for an adventurous hike, a sunny outdoor picnic or an improvised science discussion.   
