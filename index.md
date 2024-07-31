@@ -3,7 +3,7 @@
 
 ## About me
 
-Hello! My name is Elisa and I am currently a final year PhD student at Queen Mary University of London, School of Mathematical Sciences.
+Hello! My name is Elisa and I am currently a final year PhD student at [Queen Mary University of London, School of Mathematical Sciences](https://www.qmul.ac.uk/maths/).
 
 I am completing my PhD under the supervision of [Dr. Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html) and [Dr. Benjamin Werner](https://www.bci.qmul.ac.uk/staff/dr-benjamin-werner/). 
 
@@ -51,13 +51,13 @@ I am also interested in general population dynamics, mutational patterns, cancer
 ## Teaching
 
 As a Lecturer:
-1. A.Y. 2020/21 - 2022/23 - 2023/24: Lecturer for "Basics of Mathematics", Bachelor's programme in Biological Sciences, Università degli Studi della Tuscia, Italy.
-2. A.Y. 2020/21: Lecturer for "Mathematics", Bachelor's programme in Political Sciences and International Relationships, Università degli Studi della tuscia & Italyan Air Force, Italy.
-3. A.Y. 2021/22 - 2022/23 - 2023/24 - 2024/25: Lecturer for "Introduction to Mathematics I", Bachelor's programme in Business and Management, ESCP Business School, London.
+1. A.Y. 2020/21 - 2022/23 - 2023/24: Lecturer for "Basics of Mathematics", Bachelor's programme in Biological Sciences, [Università degli Studi della Tuscia](https://www.unitus.it/), Italy.
+2. A.Y. 2020/21: Lecturer for "Mathematics", Bachelor's programme in Political Sciences and International Relationships, Università degli Studi della Tuscia & Italian Air Force, Italy.
+3. A.Y. 2021/22 - 2022/23 - 2023/24 - 2024/25: Lecturer for "Introduction to Mathematics I", Bachelor's programme in Business and Management, [ESCP Business School](https://www.escp.eu/), London.
 4. A.Y. 2023/24 - 2024/25: Lecturer for "Statistics I", Bachelor's programme in Business and Management, ESCP Business School, London.
 
 As a Graduate Teaching Assistant:
-1. "Sequences and Series", "Calculus I", "Applied Differential Equations", "Mathematical Biology", Bachelor's programme in Mathematics, King's College London, London.
+1. "Sequences and Series", "Calculus I", "Applied Differential Equations", "Mathematical Biology", Bachelor's programme in Mathematics, [King's College London](https://www.kcl.ac.uk/), London.
 2. "Number Sets and Functions", "Calculus II", "Programming in C++", "Programming in Python", Bachelor's programme in Mathematics, Queen Mary University of London, London.
 
 ## Other
