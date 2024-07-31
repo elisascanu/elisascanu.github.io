@@ -7,11 +7,11 @@ Hello! My name is Elisa and I am currently a final year PhD student at Queen Mar
 
 I am completing my PhD under the supervision of [Dr. Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html) and [Dr. Benjamin Werner](https://www.bci.qmul.ac.uk/staff/dr-benjamin-werner/). 
 
-[Research interests](#research) - [Publications](#publications) - [Presentations](#presentations) - [Prizes](#prizes) - [Teaching](#teaching)
+[Email/Socials](#socials) [Research interests](#research) - [Publications](#publications) - [Presentations](#presentations) - [Prizes](#prizes) - [Teaching](#teaching)
 
 ### Email/Socials
 
-Email: e.scanu@qmul.ac.uk
+Email: [e.scanu@qmul.ac.uk](mailto:john@example.com)
 
 X: @eliscanu96
 
