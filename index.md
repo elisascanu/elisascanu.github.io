@@ -15,6 +15,8 @@ Email: [e.scanu@qmul.ac.uk](mailto:e.scanu@qmul.ac.uk)
 
 X: [@eliscanu96](https://x.com/eliscanu96)
 
+LinkedIn: [Elisa Scanu](https://www.linkedin.com/in/elisa-scanu-3534661b8/)
+
 Google Scholar: [Elisa Scanu](https://scholar.google.com/citations?hl=it&user=juEQxZ8AAAAJ)
 
 ## Research
