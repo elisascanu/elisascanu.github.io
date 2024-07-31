@@ -1,3 +1,6 @@
+![Me](\IMG_2261.jpg)
+
+
 ## About me
 
 Hello! My name is Elisa and I am currently a final year PhD student at Queen Mary University of London, School of Mathematical Sciences.
