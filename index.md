@@ -36,10 +36,10 @@ I am also interested in general population dynamics, mutational patterns, cancer
 4. October 2022, Integrated Mathematical Oncology Workshop 10th Edition, Tampa. Poster
 5. December 2022, NetPLACE, online. Invited speaker
 6. May 2023, Como School on Cancer Evolution, Lake Como School on Advanced Studies. Talk
-7. July 2023, Society for Molecular Biology and Evolution, Ferrara. Talk
-8. September 2023, London Mathematical Biology Conference, London. Poster
+7. July 2023, Society for Molecular Biology and Evolution, Ferrara. [Talk](\1120_23_Scanu.pdf)
+8. September 2023, London Mathematical Biology Conference, London. [Poster](\Poster London Math Bio.pdf)
 9. July 2024, Gruppo Italiano Meccanica Computazionale & Società Italiana di Matematica Applicata ed Industriale, Naples. Invited speaker
-10. July 2024, European Conference of Theoretical and Mathematical Biology (ECMTB), Toledo. Talk
+10. July 2024, European Conference of Theoretical and Mathematical Biology (ECMTB), Toledo. [Talk](\ECMTB2024.pdf)
 
 ## Prizes
 
