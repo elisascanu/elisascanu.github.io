@@ -1,4 +1,4 @@
-![Me](\IMG_2261.jpg)
+![Me](\IMG_2261.jpg){:style="width:200px;height:auto;"}
 
 
 ## About me
