@@ -9,7 +9,7 @@ I am completing my PhD under the supervision of [Dr. Weini Huang](https://www.qm
 
 [Email/Socials](#socials) - [Research interests](#research) - [Publications](#publications) - [Presentations](#presentations) - [Prizes](#prizes) - [Teaching](#teaching) - [Other interests](#other)
 
-### Email/Socials
+## Email/Socials
 
 Email: [e.scanu@qmul.ac.uk](mailto:e.scanu@qmul.ac.uk)
 
@@ -60,7 +60,7 @@ As a Graduate Teaching Assistant:
 1. "Sequences and Series", "Calculus I", "Applied Differential Equations", "Mathematical Biology", Bachelor's programme in Mathematics, King's College London, London.
 2. "Number Sets and Functions", "Calculus II", "Programming in C++", "Programming in Python", Bachelor's programme in Mathematics, Queen Mary University of London, London.
 
-## Other interests
+## Other interests
 
 I love to run, I am preparing the London Half Marathon 2025 :)
 
