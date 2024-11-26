@@ -32,7 +32,7 @@ In my PhD, I focused majorly on developing mathematical frameworks, informed by 
 1. Hung KL, Jones MG, Wong ITL, Curtis EJ, Lange JT, He BJ, Luebeck J, Schmargon R, Scanu E, et al. (2024) [Coordinated inheritance of extrachromosomal DNA species in human cancer cells](https://www.nature.com/articles/s41586-024-07861-8), Nature, 635, 201–209
 2. Nowicka Z, Rentzeperis F, Beck R, Tagal V, Pinto AF, Scanu E, et al. (2023) [Interactions between ploidy and resource availability shape clonal interference at initiation and recurrence of glioblastoma](https://www.biorxiv.org/content/10.1101/2023.10.17.562670v1), bioRxiv 2023.10.17.562670
 3. Scanu E, Werner B, Huang W (2024) [The maintenance of multiple ecDNA types in single cancer cells](https://www.biorxiv.org/content/10.1101/2024.10.22.619675v2), bioRxiv, 2024.10.22.619675
-4. Scanu E, Werner B, Huang W (2024), [Population dynamics of multiple ecDNA types](https://github.com/eliscanu96/popdynamics/blob/main/Population_dynamics_of_multiple_ecDNA_types.pdf), working draft
+4. Scanu E, Werner B, Huang W (2024), [Population dynamics of multiple ecDNA types](https://arxiv.org/abs/2411.14588v1), arXiv, 2411.14588
    
 ## Presentations
 
