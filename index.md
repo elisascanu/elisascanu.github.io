@@ -5,7 +5,7 @@
 
 Ciao! My name is Elisa and I am currently a Postdoctoral Research Assistant at [Barts Cancer Institute](https://www.bci.qmul.ac.uk/) under the supervision of [Dr. Benjamin Werner](https://www.bci.qmul.ac.uk/staff/dr-benjamin-werner/).
 
-I am completing my PhD in Mathematics under the supervision of [Dr. Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html) and Dr. Benjamin Werner at [Queen Mary University of London, School of Mathematical Sciences](https://www.qmul.ac.uk/maths/).
+I completed my PhD in Mathematics in 2025 under the supervision of [Dr. Weini Huang](https://www.qmul.ac.uk/maths/profiles/huangw.html) and Dr. Benjamin Werner at [Queen Mary University of London, School of Mathematical Sciences](https://www.qmul.ac.uk/maths/).
 
 [Email/Socials](#socials) - [Research](#research) - [Publications](#publications) - [Presentations](#presentations) - [Prizes](#prizes) - [Teaching](#teaching) - [Other](#other)
 
@@ -21,11 +21,11 @@ Google Scholar: [Elisa Scanu](https://scholar.google.com/citations?hl=it&user=ju
 
 ## Research
 
-I am currently working on investigating extra-chromosomal DNA (ecDNA) proliferation through agent-based modeling. I am also part of the team [eDyNAmiC](https://cancergrandchallenges.org/teams/edynamic). Precisely, my research focuses on understanding the dynamics of multiple ecDNAs in an expanding cell population. I use computational and analytical methodologies, informed with available data.
+I am currently working on investigating extra-chromosomal DNA (ecDNA) proliferation through agent-based modeling. I am also part of the team [eDyNAmiC](https://cancergrandchallenges.org/teams/edynamic). During my PhD, my research focused on understanding the dynamics of multiple ecDNAs in an expanding cell population. I developed mathematical frameworks, informed by available data, and investigated them in order to understand from a theoretical point of view how multiple ecDNA types propagate and co-exist in growing cell populations. 
+
+In my Postdoctoral position, I am now developing a project to study the dynamics of ecDNA in blood as part of circulating tumor DNA (ctDNA). I am using computational and analytical methodologies, informed with available data.
 
 I am also interested in general population dynamics, mutational patterns, cancer evolution.
-
-In my PhD, I focused majorly on developing mathematical frameworks, informed by available data, and investigating them in order to understand from a theoretical point of view how multiple ecDNA types propagate and co-exist in growing cell populations. 
 
 ## Publications
 
