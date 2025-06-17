@@ -23,7 +23,7 @@ Google Scholar: [Elisa Scanu](https://scholar.google.com/citations?hl=it&user=ju
 
 I am currently working on investigating extra-chromosomal DNA (ecDNA) proliferation through agent-based modeling. I am also part of the team [eDyNAmiC](https://cancergrandchallenges.org/teams/edynamic). During my PhD, my research focused on understanding the dynamics of multiple ecDNAs in an expanding cell population. I developed mathematical frameworks, informed by available data, and investigated them in order to understand from a theoretical point of view how multiple ecDNA types propagate and co-exist in growing cell populations. 
 
-In my Postdoctoral position, I am now developing a project to study the dynamics of ecDNA in blood as part of circulating tumor DNA (ctDNA). I am using computational and analytical methodologies, informed with available data.
+In my Postdoctoral position, I am now developing a project to study the dynamics of ecDNA in blood as part of circulating tumor DNA (ctDNA). I am interested in studying the connections between the dynamics of ecDNA in blood and ecDNA in the primary tumor. I am developing also strategies to model the impact of treatment on these dynamics. I am using computational and analytical methodologies, informed with available data.
 
 I am also interested in general population dynamics, mutational patterns, cancer evolution.
 
@@ -33,6 +33,7 @@ I am also interested in general population dynamics, mutational patterns, cancer
 2. Nowicka Z, Rentzeperis F, Beck R, Tagal V, Pinto AF, Scanu E, et al. (2023) [Interactions between ploidy and resource availability shape clonal interference at initiation and recurrence of glioblastoma](https://www.biorxiv.org/content/10.1101/2023.10.17.562670v1), bioRxiv 2023.10.17.562670
 3. Scanu E, Werner B, Huang W (2024) [The maintenance of multiple ecDNA types in single cancer cells](https://www.biorxiv.org/content/10.1101/2024.10.22.619675v2), bioRxiv, 2024.10.22.619675
 4. Scanu E, Werner B, Huang W (2024), [Population dynamics of multiple ecDNA types](https://arxiv.org/abs/2411.14588v1), arXiv, 2411.14588
+5. Scanu E (2025), [Modeling and investigating the proliferation of multiple extra-chromosomal DNA types in human cancer cells](https://qmro.qmul.ac.uk/xmlui/handle/123456789/106729), PhD thesis
    
 ## Presentations
 
@@ -47,6 +48,7 @@ I am also interested in general population dynamics, mutational patterns, cancer
 9. July 2024, Gruppo Italiano Meccanica Computazionale & Società Italiana di Matematica Applicata ed Industriale, Naples. Invited speaker
 10. July 2024, European Conference of Theoretical and Mathematical Biology (ECMTB), Toledo. [Talk](\ECMTB2024.pdf)
 11. September 2024, London Mathematical Biology Conference, London. Talk
+12. June 2025, Cancer Grand Challenges conference: extra-chromosomal DNA, London. Poster
 
 ## Prizes
 
@@ -62,6 +64,7 @@ As a Lecturer:
 2. A.Y. 2020/21: Lecturer for "Mathematics", Bachelor's programme in Political Sciences and International Relationships, Università degli Studi della Tuscia & Italian Air Force, Italy.
 3. A.Y. 2021/22 - 2022/23 - 2023/24 - 2024/25: Lecturer for "Introduction to Mathematics I", Bachelor's programme in Business and Management, [ESCP Business School](https://www.escp.eu/), London.
 4. A.Y. 2023/24 - 2024/25: Lecturer for "Statistics I", Bachelor's programme in Business and Management, ESCP Business School, London.
+5. A.Y. 2024/25: Lecturer for "Computer Skills", Bachelor's programme in Business and Management, ESCP Business School, London.
 
 As a Graduate Teaching Assistant:
 1. "Sequences and Series", "Calculus I", "Applied Differential Equations", "Mathematical Biology", Bachelor's programme in Mathematics, [King's College London](https://www.kcl.ac.uk/), London.
@@ -69,7 +72,7 @@ As a Graduate Teaching Assistant:
 
 ## Other
 
-I love to run, and I am preparing my first Half Marathon! 
+I love to run, and I have recently completed my first Half Marathon in 1h55m! 
 
 I am a great cook (accordingly to my friends and family), and my best dish is pasta alla carbonara (without cream).
 
