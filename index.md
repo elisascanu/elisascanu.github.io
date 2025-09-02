@@ -49,6 +49,7 @@ I am also interested in general population dynamics, mutational patterns, cancer
 10. July 2024, European Conference of Theoretical and Mathematical Biology (ECMTB), Toledo. [Talk](\ECMTB2024.pdf)
 11. September 2024, London Mathematical Biology Conference, London. Talk
 12. June 2025, Cancer Grand Challenges conference: extra-chromosomal DNA, London. Poster
+13. September 2025, Mathematical and Statistical Aspects of Molecular Biology (MASAMB) Annual Meeting, London. Talk
 
 ## Prizes
 
