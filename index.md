@@ -63,7 +63,7 @@ I am also interested in general population dynamics, mutational patterns, cancer
 As a Lecturer:
 1. A.Y. 2020/21 - 2022/23 - 2023/24: Lecturer for "Basics of Mathematics", Bachelor's programme in Biological Sciences, [Università degli Studi della Tuscia](https://www.unitus.it/), Italy.
 2. A.Y. 2020/21: Lecturer for "Mathematics", Bachelor's programme in Political Sciences and International Relationships, Università degli Studi della Tuscia & Italian Air Force, Italy.
-3. A.Y. 2021/22 - 2022/23 - 2023/24 - 2024/25: Lecturer for "Introduction to Mathematics I", Bachelor's programme in Business and Management, [ESCP Business School](https://www.escp.eu/), London.
+3. A.Y. 2021/22 - 2022/23 - 2023/24 - 2024/25 - 2025/26: Lecturer for "Introduction to Mathematics I", Bachelor's programme in Business and Management, [ESCP Business School](https://www.escp.eu/), London.
 4. A.Y. 2023/24 - 2024/25: Lecturer for "Statistics I", Bachelor's programme in Business and Management, ESCP Business School, London.
 5. A.Y. 2024/25: Lecturer for "Computer Skills", Bachelor's programme in Business and Management, ESCP Business School, London.
 
