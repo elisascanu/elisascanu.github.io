@@ -34,6 +34,7 @@ I am also interested in general population dynamics, mutational patterns, cancer
 3. Scanu E, Werner B, Huang W (2024) [The maintenance of multiple ecDNA types in single cancer cells](https://www.biorxiv.org/content/10.1101/2024.10.22.619675v2), bioRxiv, 2024.10.22.619675
 4. Scanu E, Werner B, Huang W (2024), [Population dynamics of multiple ecDNA types](https://arxiv.org/abs/2411.14588v1), arXiv, 2411.14588
 5. Scanu E (2025), [Modeling and investigating the proliferation of multiple extra-chromosomal DNA types in human cancer cells](https://qmro.qmul.ac.uk/xmlui/handle/123456789/106729), PhD thesis
+6. Simeoni C, Scanu E, Pera D, Mascia C (2025) [Numerical simulations of the Gatenby-Gawlinski model with heterogeneous acid diffusion in one space dimension](https://arxiv.org/abs/2511.07187), arXiv, 2511.07187
    
 ## Presentations
 
