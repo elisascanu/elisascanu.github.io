@@ -31,7 +31,7 @@ I am also interested in general population dynamics, mutational patterns, cancer
 
 1. Hung KL, Jones MG, Wong ITL, Curtis EJ, Lange JT, He BJ, Luebeck J, Schmargon R, Scanu E, et al. (2024) [Coordinated inheritance of extrachromosomal DNA species in human cancer cells](https://www.nature.com/articles/s41586-024-07861-8), Nature, 635, 201–209
 2. Scanu E, Werner B, Huang W (2024) [The maintenance of multiple ecDNA types in single cancer cells](https://www.biorxiv.org/content/10.1101/2024.10.22.619675v2), bioRxiv, 2024.10.22.619675
-3. Scanu E, Werner B, Huang W (2024), [Population dynamics of multiple ecDNA types](https://arxiv.org/abs/2411.14588v1), arXiv, 2411.14588
+3. Scanu E, Werner B, Huang W (2024), [Population dynamics of multiple ecDNA types](https://arxiv.org/abs/2411.14588v3), arXiv, 2411.14588
 4. Nowicka Z, Rentzeperis F, Beck R, Tagal V, Pinto AF, Scanu E, et al. (2025) [Interactions between ploidy and resource availability shape clonal evolution in glioblastoma](https://aacrjournals.org/cancerres/article-abstract/85/8/1544/754676/Interactions-between-Ploidy-and-Resource?redirectedFrom=fulltext), Cancer Research, 85, 1544–59
 5. Scanu E (2025), [Modeling and investigating the proliferation of multiple extra-chromosomal DNA types in human cancer cells](https://qmro.qmul.ac.uk/xmlui/handle/123456789/106729), PhD thesis
 6. Simeoni C, Scanu E, Pera D, Mascia C (2025) [Numerical simulations of the Gatenby-Gawlinski model with heterogeneous acid diffusion in one space dimension](https://arxiv.org/abs/2511.07187), arXiv, 2511.07187
